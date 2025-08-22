@@ -17,35 +17,4 @@ A simple Python console game where the player must guess a random number between
 2. Run in terminal
 
 ## Example Gameplay
-Hi! This is a number guessing game.
-Set the difficulty level and guess an integer between 1 and 100.
-Choose difficulty level: (Easy / Hard)
-Easy
-You have 10 lives left.
-Take a guess.
-50
-Your guess is too high.
-You have 9 lives left.
-Take a guess.
-25
-Your guess is too low.
-You have 8 lives left.
-Take a guess.
-35
-Your guess is too high.
-Hint: The number is even!
-You have 7 lives left.
-Take a guess.
-30
-Your guess is too high.
-You have 6 lives left.
-Take a guess.
-28
-Your guess is too high.
-You have 5 lives left.
-Take a guess.
-26
-You are right!
-The correct number is 26.
-Score = 50%
-Do you want to play again? (y/n)
+<img width="776" height="750" alt="image" src="https://github.com/user-attachments/assets/664e3f90-8d46-4233-a516-f85630bb2b2e" />
